@@ -1,0 +1,16 @@
+customer_id,name,email,city,signup_date
+1,Aarav,aarav@gmail.com,Delhi,2025-01-10
+2,Priya,priya@gmail.com,Mumbai,2025-01-15
+3,Rahul,rahul@gmail.com,Bangalore,2025-02-01
+4,Ananya,unknown@example.com,Delhi,2025-02-10
+5,Rohan,rohan@gmail.com,Pune,2025-02-20
+6,Sneha,sneha@gmail.com,Hyderabad,2025-03-05
+7,Aditya,aditya@gmail.com,Unknown,2025-03-10
+8,Isha,isha@gmail.com,Delhi,2025-03-15
+9,Karan,karan@gmail.com,Mumbai,2025-04-01
+10,Neha,neha@gmail.com,Noida,2025-04-10
+11,Arjun,arjun@gmail.com,Delhi,2025-04-15
+12,Simran,simran@gmail.com,Pune,2025-05-01
+13,Varun,varun@gmail.com,Chennai,2025-05-10
+14,Meera,meera@gmail.com,Delhi,2025-05-20
+15,Kabir,kabir@gmail.com,Mumbai,2025-06-01
